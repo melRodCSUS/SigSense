@@ -7,3 +7,9 @@ The model will uniquely profile someone's handwriting through accompied training
 # Research Documentation
 
 Criminal Justice Foresnsics Officer
+
+3 Basic AI Types
+
+- Per Letter **Priortized**
+- Per Word
+- Holistic
